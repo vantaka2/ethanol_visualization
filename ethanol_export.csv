@@ -1,0 +1,837 @@
+alpha_3_code,country,latitude_average,longitude_average,date,quarter,Thousand Barrels,text
+ALB,Albania,41,20,2013-09-30,2013Q3,20.0,Albania 20.0 Thousand Barrels
+ARG,Argentina,-34,-64,2010-12-31,2010Q4,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2011-09-30,2011Q3,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2011-12-31,2011Q4,2.0,Argentina 2.0 Thousand Barrels
+ARG,Argentina,-34,-64,2012-06-30,2012Q2,2.0,Argentina 2.0 Thousand Barrels
+ARG,Argentina,-34,-64,2012-09-30,2012Q3,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2012-12-31,2012Q4,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2013-06-30,2013Q2,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2013-12-31,2013Q4,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2014-03-31,2014Q1,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2014-06-30,2014Q2,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2014-09-30,2014Q3,1.0,Argentina 1.0 Thousand Barrels
+ARG,Argentina,-34,-64,2017-03-31,2017Q1,1.0,Argentina 1.0 Thousand Barrels
+ABW,Aruba,12.5,-69.9667,2010-06-30,2010Q2,1.0,Aruba 1.0 Thousand Barrels
+ABW,Aruba,12.5,-69.9667,2011-03-31,2011Q1,1.0,Aruba 1.0 Thousand Barrels
+ABW,Aruba,12.5,-69.9667,2013-12-31,2013Q4,25.0,Aruba 25.0 Thousand Barrels
+AUS,Australia,-27,133,2010-03-31,2010Q1,19.0,Australia 19.0 Thousand Barrels
+AUS,Australia,-27,133,2010-06-30,2010Q2,56.0,Australia 56.0 Thousand Barrels
+AUS,Australia,-27,133,2010-09-30,2010Q3,53.0,Australia 53.0 Thousand Barrels
+AUS,Australia,-27,133,2010-12-31,2010Q4,90.0,Australia 90.0 Thousand Barrels
+AUS,Australia,-27,133,2011-03-31,2011Q1,86.0,Australia 86.0 Thousand Barrels
+AUS,Australia,-27,133,2011-06-30,2011Q2,97.0,Australia 97.0 Thousand Barrels
+AUS,Australia,-27,133,2011-09-30,2011Q3,35.0,Australia 35.0 Thousand Barrels
+AUS,Australia,-27,133,2011-12-31,2011Q4,15.0,Australia 15.0 Thousand Barrels
+AUS,Australia,-27,133,2012-03-31,2012Q1,2.0,Australia 2.0 Thousand Barrels
+AUS,Australia,-27,133,2012-12-31,2012Q4,1.0,Australia 1.0 Thousand Barrels
+BHS,Bahamas,24.25,-76,2011-03-31,2011Q1,1.0,Bahamas 1.0 Thousand Barrels
+BHS,Bahamas,24.25,-76,2012-06-30,2012Q2,1.0,Bahamas 1.0 Thousand Barrels
+BHS,Bahamas,24.25,-76,2015-12-31,2015Q4,1.0,Bahamas 1.0 Thousand Barrels
+BHS,Bahamas,24.25,-76,2016-03-31,2016Q1,3.0,Bahamas 3.0 Thousand Barrels
+BHS,Bahamas,24.25,-76,2016-06-30,2016Q2,3.0,Bahamas 3.0 Thousand Barrels
+BHS,Bahamas,24.25,-76,2016-09-30,2016Q3,2.0,Bahamas 2.0 Thousand Barrels
+BHS,Bahamas,24.25,-76,2017-06-30,2017Q2,2.0,Bahamas 2.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2011-12-31,2011Q4,82.0,Belgium 82.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2012-06-30,2012Q2,1.0,Belgium 1.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2012-09-30,2012Q3,55.0,Belgium 55.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2012-12-31,2012Q4,1.0,Belgium 1.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2013-09-30,2013Q3,1.0,Belgium 1.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2014-06-30,2014Q2,1.0,Belgium 1.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2015-06-30,2015Q2,1.0,Belgium 1.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2016-12-31,2016Q4,1.0,Belgium 1.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2017-06-30,2017Q2,38.0,Belgium 38.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2017-09-30,2017Q3,47.0,Belgium 47.0 Thousand Barrels
+BEL,Belgium,50.8333,4,2017-12-31,2017Q4,70.0,Belgium 70.0 Thousand Barrels
+BRA,Brazil,-10,-55,2010-03-31,2010Q1,227.0,Brazil 227.0 Thousand Barrels
+BRA,Brazil,-10,-55,2010-09-30,2010Q3,129.0,Brazil 129.0 Thousand Barrels
+BRA,Brazil,-10,-55,2010-12-31,2010Q4,182.0,Brazil 182.0 Thousand Barrels
+BRA,Brazil,-10,-55,2011-03-31,2011Q1,650.0,Brazil 650.0 Thousand Barrels
+BRA,Brazil,-10,-55,2011-06-30,2011Q2,2350.0,Brazil 2350.0 Thousand Barrels
+BRA,Brazil,-10,-55,2011-09-30,2011Q3,1809.0,Brazil 1809.0 Thousand Barrels
+BRA,Brazil,-10,-55,2011-12-31,2011Q4,4611.0,Brazil 4611.0 Thousand Barrels
+BRA,Brazil,-10,-55,2012-03-31,2012Q1,1087.0,Brazil 1087.0 Thousand Barrels
+BRA,Brazil,-10,-55,2012-06-30,2012Q2,459.0,Brazil 459.0 Thousand Barrels
+BRA,Brazil,-10,-55,2012-09-30,2012Q3,408.0,Brazil 408.0 Thousand Barrels
+BRA,Brazil,-10,-55,2012-12-31,2012Q4,91.0,Brazil 91.0 Thousand Barrels
+BRA,Brazil,-10,-55,2013-03-31,2013Q1,514.0,Brazil 514.0 Thousand Barrels
+BRA,Brazil,-10,-55,2013-06-30,2013Q2,172.0,Brazil 172.0 Thousand Barrels
+BRA,Brazil,-10,-55,2013-12-31,2013Q4,398.0,Brazil 398.0 Thousand Barrels
+BRA,Brazil,-10,-55,2014-03-31,2014Q1,1182.0,Brazil 1182.0 Thousand Barrels
+BRA,Brazil,-10,-55,2014-06-30,2014Q2,348.0,Brazil 348.0 Thousand Barrels
+BRA,Brazil,-10,-55,2014-09-30,2014Q3,276.0,Brazil 276.0 Thousand Barrels
+BRA,Brazil,-10,-55,2014-12-31,2014Q4,840.0,Brazil 840.0 Thousand Barrels
+BRA,Brazil,-10,-55,2015-03-31,2015Q1,1614.0,Brazil 1614.0 Thousand Barrels
+BRA,Brazil,-10,-55,2015-06-30,2015Q2,677.0,Brazil 677.0 Thousand Barrels
+BRA,Brazil,-10,-55,2015-09-30,2015Q3,168.0,Brazil 168.0 Thousand Barrels
+BRA,Brazil,-10,-55,2015-12-31,2015Q4,222.0,Brazil 222.0 Thousand Barrels
+BRA,Brazil,-10,-55,2016-03-31,2016Q1,1186.0,Brazil 1186.0 Thousand Barrels
+BRA,Brazil,-10,-55,2016-06-30,2016Q2,571.0,Brazil 571.0 Thousand Barrels
+BRA,Brazil,-10,-55,2016-09-30,2016Q3,1493.0,Brazil 1493.0 Thousand Barrels
+BRA,Brazil,-10,-55,2016-12-31,2016Q4,3395.0,Brazil 3395.0 Thousand Barrels
+BRA,Brazil,-10,-55,2017-03-31,2017Q1,3476.0,Brazil 3476.0 Thousand Barrels
+BRA,Brazil,-10,-55,2017-06-30,2017Q2,2943.0,Brazil 2943.0 Thousand Barrels
+BRA,Brazil,-10,-55,2017-09-30,2017Q3,1774.0,Brazil 1774.0 Thousand Barrels
+BRA,Brazil,-10,-55,2017-12-31,2017Q4,2001.0,Brazil 2001.0 Thousand Barrels
+BRA,Brazil,-10,-55,2018-03-31,2018Q1,5711.0,Brazil 5711.0 Thousand Barrels
+BRA,Brazil,-10,-55,2018-06-30,2018Q2,2526.0,Brazil 2526.0 Thousand Barrels
+BRA,Brazil,-10,-55,2018-09-30,2018Q3,575.0,Brazil 575.0 Thousand Barrels
+CAN,Canada,60,-95,2010-03-31,2010Q1,490.0,Canada 490.0 Thousand Barrels
+CAN,Canada,60,-95,2010-06-30,2010Q2,525.0,Canada 525.0 Thousand Barrels
+CAN,Canada,60,-95,2010-09-30,2010Q3,774.0,Canada 774.0 Thousand Barrels
+CAN,Canada,60,-95,2010-12-31,2010Q4,1054.0,Canada 1054.0 Thousand Barrels
+CAN,Canada,60,-95,2011-03-31,2011Q1,1248.0,Canada 1248.0 Thousand Barrels
+CAN,Canada,60,-95,2011-06-30,2011Q2,1648.0,Canada 1648.0 Thousand Barrels
+CAN,Canada,60,-95,2011-09-30,2011Q3,2123.0,Canada 2123.0 Thousand Barrels
+CAN,Canada,60,-95,2011-12-31,2011Q4,2066.0,Canada 2066.0 Thousand Barrels
+CAN,Canada,60,-95,2012-03-31,2012Q1,1480.0,Canada 1480.0 Thousand Barrels
+CAN,Canada,60,-95,2012-06-30,2012Q2,1537.0,Canada 1537.0 Thousand Barrels
+CAN,Canada,60,-95,2012-09-30,2012Q3,2143.0,Canada 2143.0 Thousand Barrels
+CAN,Canada,60,-95,2012-12-31,2012Q4,2242.0,Canada 2242.0 Thousand Barrels
+CAN,Canada,60,-95,2013-03-31,2013Q1,1694.0,Canada 1694.0 Thousand Barrels
+CAN,Canada,60,-95,2013-06-30,2013Q2,1836.0,Canada 1836.0 Thousand Barrels
+CAN,Canada,60,-95,2013-09-30,2013Q3,2193.0,Canada 2193.0 Thousand Barrels
+CAN,Canada,60,-95,2013-12-31,2013Q4,1988.0,Canada 1988.0 Thousand Barrels
+CAN,Canada,60,-95,2014-03-31,2014Q1,1509.0,Canada 1509.0 Thousand Barrels
+CAN,Canada,60,-95,2014-06-30,2014Q2,2630.0,Canada 2630.0 Thousand Barrels
+CAN,Canada,60,-95,2014-09-30,2014Q3,2184.0,Canada 2184.0 Thousand Barrels
+CAN,Canada,60,-95,2014-12-31,2014Q4,1663.0,Canada 1663.0 Thousand Barrels
+CAN,Canada,60,-95,2015-03-31,2015Q1,1243.0,Canada 1243.0 Thousand Barrels
+CAN,Canada,60,-95,2015-06-30,2015Q2,1477.0,Canada 1477.0 Thousand Barrels
+CAN,Canada,60,-95,2015-09-30,2015Q3,1729.0,Canada 1729.0 Thousand Barrels
+CAN,Canada,60,-95,2015-12-31,2015Q4,1539.0,Canada 1539.0 Thousand Barrels
+CAN,Canada,60,-95,2016-03-31,2016Q1,1376.0,Canada 1376.0 Thousand Barrels
+CAN,Canada,60,-95,2016-06-30,2016Q2,1809.0,Canada 1809.0 Thousand Barrels
+CAN,Canada,60,-95,2016-09-30,2016Q3,2187.0,Canada 2187.0 Thousand Barrels
+CAN,Canada,60,-95,2016-12-31,2016Q4,2049.0,Canada 2049.0 Thousand Barrels
+CAN,Canada,60,-95,2017-03-31,2017Q1,1728.0,Canada 1728.0 Thousand Barrels
+CAN,Canada,60,-95,2017-06-30,2017Q2,1780.0,Canada 1780.0 Thousand Barrels
+CAN,Canada,60,-95,2017-09-30,2017Q3,2333.0,Canada 2333.0 Thousand Barrels
+CAN,Canada,60,-95,2017-12-31,2017Q4,1935.0,Canada 1935.0 Thousand Barrels
+CAN,Canada,60,-95,2018-03-31,2018Q1,1584.0,Canada 1584.0 Thousand Barrels
+CAN,Canada,60,-95,2018-06-30,2018Q2,2218.0,Canada 2218.0 Thousand Barrels
+CAN,Canada,60,-95,2018-09-30,2018Q3,2441.0,Canada 2441.0 Thousand Barrels
+CHL,Chile,-30,-71,2010-09-30,2010Q3,1.0,Chile 1.0 Thousand Barrels
+CHL,Chile,-30,-71,2010-12-31,2010Q4,20.0,Chile 20.0 Thousand Barrels
+CHL,Chile,-30,-71,2011-03-31,2011Q1,4.0,Chile 4.0 Thousand Barrels
+CHL,Chile,-30,-71,2011-06-30,2011Q2,4.0,Chile 4.0 Thousand Barrels
+CHL,Chile,-30,-71,2011-09-30,2011Q3,2.0,Chile 2.0 Thousand Barrels
+CHL,Chile,-30,-71,2011-12-31,2011Q4,7.0,Chile 7.0 Thousand Barrels
+CHL,Chile,-30,-71,2012-03-31,2012Q1,3.0,Chile 3.0 Thousand Barrels
+CHL,Chile,-30,-71,2012-06-30,2012Q2,1.0,Chile 1.0 Thousand Barrels
+CHL,Chile,-30,-71,2012-09-30,2012Q3,3.0,Chile 3.0 Thousand Barrels
+CHL,Chile,-30,-71,2012-12-31,2012Q4,3.0,Chile 3.0 Thousand Barrels
+CHL,Chile,-30,-71,2013-03-31,2013Q1,3.0,Chile 3.0 Thousand Barrels
+CHL,Chile,-30,-71,2013-06-30,2013Q2,4.0,Chile 4.0 Thousand Barrels
+CHL,Chile,-30,-71,2013-09-30,2013Q3,2.0,Chile 2.0 Thousand Barrels
+CHL,Chile,-30,-71,2013-12-31,2013Q4,2.0,Chile 2.0 Thousand Barrels
+CHL,Chile,-30,-71,2014-03-31,2014Q1,3.0,Chile 3.0 Thousand Barrels
+CHL,Chile,-30,-71,2014-06-30,2014Q2,4.0,Chile 4.0 Thousand Barrels
+CHL,Chile,-30,-71,2014-09-30,2014Q3,4.0,Chile 4.0 Thousand Barrels
+CHL,Chile,-30,-71,2014-12-31,2014Q4,8.0,Chile 8.0 Thousand Barrels
+CHL,Chile,-30,-71,2015-03-31,2015Q1,10.0,Chile 10.0 Thousand Barrels
+CHL,Chile,-30,-71,2015-06-30,2015Q2,5.0,Chile 5.0 Thousand Barrels
+CHL,Chile,-30,-71,2015-09-30,2015Q3,3.0,Chile 3.0 Thousand Barrels
+CHL,Chile,-30,-71,2015-12-31,2015Q4,2.0,Chile 2.0 Thousand Barrels
+CHL,Chile,-30,-71,2016-03-31,2016Q1,3.0,Chile 3.0 Thousand Barrels
+CHL,Chile,-30,-71,2016-06-30,2016Q2,4.0,Chile 4.0 Thousand Barrels
+CHL,Chile,-30,-71,2016-09-30,2016Q3,4.0,Chile 4.0 Thousand Barrels
+CHL,Chile,-30,-71,2018-06-30,2018Q2,1.0,Chile 1.0 Thousand Barrels
+CHL,Chile,-30,-71,2018-09-30,2018Q3,1.0,Chile 1.0 Thousand Barrels
+CHN,China,35,105,2010-09-30,2010Q3,1.0,China 1.0 Thousand Barrels
+CHN,China,35,105,2010-12-31,2010Q4,4.0,China 4.0 Thousand Barrels
+CHN,China,35,105,2011-03-31,2011Q1,3.0,China 3.0 Thousand Barrels
+CHN,China,35,105,2011-12-31,2011Q4,1.0,China 1.0 Thousand Barrels
+CHN,China,35,105,2013-12-31,2013Q4,84.0,China 84.0 Thousand Barrels
+CHN,China,35,105,2014-06-30,2014Q2,1.0,China 1.0 Thousand Barrels
+CHN,China,35,105,2014-09-30,2014Q3,80.0,China 80.0 Thousand Barrels
+CHN,China,35,105,2015-03-31,2015Q1,1.0,China 1.0 Thousand Barrels
+CHN,China,35,105,2015-06-30,2015Q2,49.0,China 49.0 Thousand Barrels
+CHN,China,35,105,2015-09-30,2015Q3,290.0,China 290.0 Thousand Barrels
+CHN,China,35,105,2015-12-31,2015Q4,1418.0,China 1418.0 Thousand Barrels
+CHN,China,35,105,2016-03-31,2016Q1,1869.0,China 1869.0 Thousand Barrels
+CHN,China,35,105,2016-06-30,2016Q2,1619.0,China 1619.0 Thousand Barrels
+CHN,China,35,105,2016-09-30,2016Q3,437.0,China 437.0 Thousand Barrels
+CHN,China,35,105,2016-12-31,2016Q4,794.0,China 794.0 Thousand Barrels
+CHN,China,35,105,2017-12-31,2017Q4,1118.0,China 1118.0 Thousand Barrels
+CHN,China,35,105,2018-03-31,2018Q1,1258.0,China 1258.0 Thousand Barrels
+COL,Colombia,4,-72,2012-06-30,2012Q2,1.0,Colombia 1.0 Thousand Barrels
+COL,Colombia,4,-72,2013-06-30,2013Q2,2.0,Colombia 2.0 Thousand Barrels
+COL,Colombia,4,-72,2013-09-30,2013Q3,24.0,Colombia 24.0 Thousand Barrels
+COL,Colombia,4,-72,2013-12-31,2013Q4,71.0,Colombia 71.0 Thousand Barrels
+COL,Colombia,4,-72,2014-03-31,2014Q1,48.0,Colombia 48.0 Thousand Barrels
+COL,Colombia,4,-72,2014-06-30,2014Q2,1.0,Colombia 1.0 Thousand Barrels
+COL,Colombia,4,-72,2014-09-30,2014Q3,1.0,Colombia 1.0 Thousand Barrels
+COL,Colombia,4,-72,2015-03-31,2015Q1,20.0,Colombia 20.0 Thousand Barrels
+COL,Colombia,4,-72,2015-06-30,2015Q2,30.0,Colombia 30.0 Thousand Barrels
+COL,Colombia,4,-72,2016-03-31,2016Q1,27.0,Colombia 27.0 Thousand Barrels
+COL,Colombia,4,-72,2016-06-30,2016Q2,24.0,Colombia 24.0 Thousand Barrels
+COL,Colombia,4,-72,2016-09-30,2016Q3,1.0,Colombia 1.0 Thousand Barrels
+COL,Colombia,4,-72,2016-12-31,2016Q4,57.0,Colombia 57.0 Thousand Barrels
+COL,Colombia,4,-72,2017-03-31,2017Q1,72.0,Colombia 72.0 Thousand Barrels
+COL,Colombia,4,-72,2017-06-30,2017Q2,115.0,Colombia 115.0 Thousand Barrels
+COL,Colombia,4,-72,2017-09-30,2017Q3,88.0,Colombia 88.0 Thousand Barrels
+COL,Colombia,4,-72,2017-12-31,2017Q4,136.0,Colombia 136.0 Thousand Barrels
+COL,Colombia,4,-72,2018-03-31,2018Q1,280.0,Colombia 280.0 Thousand Barrels
+COL,Colombia,4,-72,2018-06-30,2018Q2,332.0,Colombia 332.0 Thousand Barrels
+COL,Colombia,4,-72,2018-09-30,2018Q3,264.0,Colombia 264.0 Thousand Barrels
+CYP,Cyprus,35,33,2018-03-31,2018Q1,48.0,Cyprus 48.0 Thousand Barrels
+CYP,Cyprus,35,33,2018-09-30,2018Q3,140.0,Cyprus 140.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2010-03-31,2010Q1,2.0,Dominican Republic 2.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2010-09-30,2010Q3,1.0,Dominican Republic 1.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2012-12-31,2012Q4,2.0,Dominican Republic 2.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2013-12-31,2013Q4,1.0,Dominican Republic 1.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2014-03-31,2014Q1,2.0,Dominican Republic 2.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2014-06-30,2014Q2,4.0,Dominican Republic 4.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2014-12-31,2014Q4,1.0,Dominican Republic 1.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2015-03-31,2015Q1,2.0,Dominican Republic 2.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2015-12-31,2015Q4,2.0,Dominican Republic 2.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2016-03-31,2016Q1,1.0,Dominican Republic 1.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2016-09-30,2016Q3,1.0,Dominican Republic 1.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2017-03-31,2017Q1,1.0,Dominican Republic 1.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2017-06-30,2017Q2,1.0,Dominican Republic 1.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2017-09-30,2017Q3,2.0,Dominican Republic 2.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2017-12-31,2017Q4,4.0,Dominican Republic 4.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2018-03-31,2018Q1,1.0,Dominican Republic 1.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2018-06-30,2018Q2,3.0,Dominican Republic 3.0 Thousand Barrels
+DOM,Dominican Republic,19,-70.6667,2018-09-30,2018Q3,1.0,Dominican Republic 1.0 Thousand Barrels
+ECU,Ecuador,-2,-77.5,2013-03-31,2013Q1,50.0,Ecuador 50.0 Thousand Barrels
+EGY,Egypt,27,30,2010-06-30,2010Q2,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2010-12-31,2010Q4,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2011-09-30,2011Q3,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2011-12-31,2011Q4,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2012-09-30,2012Q3,2.0,Egypt 2.0 Thousand Barrels
+EGY,Egypt,27,30,2013-03-31,2013Q1,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2013-06-30,2013Q2,2.0,Egypt 2.0 Thousand Barrels
+EGY,Egypt,27,30,2013-09-30,2013Q3,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2014-03-31,2014Q1,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2014-06-30,2014Q2,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2015-03-31,2015Q1,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2015-06-30,2015Q2,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2015-09-30,2015Q3,1.0,Egypt 1.0 Thousand Barrels
+EGY,Egypt,27,30,2018-03-31,2018Q1,1.0,Egypt 1.0 Thousand Barrels
+FIN,Finland,64,26,2010-09-30,2010Q3,161.0,Finland 161.0 Thousand Barrels
+FIN,Finland,64,26,2010-12-31,2010Q4,130.0,Finland 130.0 Thousand Barrels
+FIN,Finland,64,26,2011-03-31,2011Q1,233.0,Finland 233.0 Thousand Barrels
+FIN,Finland,64,26,2011-06-30,2011Q2,338.0,Finland 338.0 Thousand Barrels
+FIN,Finland,64,26,2011-09-30,2011Q3,226.0,Finland 226.0 Thousand Barrels
+FIN,Finland,64,26,2011-12-31,2011Q4,239.0,Finland 239.0 Thousand Barrels
+FIN,Finland,64,26,2012-03-31,2012Q1,370.0,Finland 370.0 Thousand Barrels
+FIN,Finland,64,26,2012-06-30,2012Q2,190.0,Finland 190.0 Thousand Barrels
+FIN,Finland,64,26,2012-09-30,2012Q3,53.0,Finland 53.0 Thousand Barrels
+FIN,Finland,64,26,2012-12-31,2012Q4,114.0,Finland 114.0 Thousand Barrels
+FIN,Finland,64,26,2013-06-30,2013Q2,123.0,Finland 123.0 Thousand Barrels
+FIN,Finland,64,26,2014-03-31,2014Q1,151.0,Finland 151.0 Thousand Barrels
+FRA,France,46,2,2013-03-31,2013Q1,1.0,France 1.0 Thousand Barrels
+FRA,France,46,2,2013-09-30,2013Q3,1.0,France 1.0 Thousand Barrels
+FRA,France,46,2,2017-03-31,2017Q1,4.0,France 4.0 Thousand Barrels
+DEU,Germany,51,9,2010-03-31,2010Q1,1.0,Germany 1.0 Thousand Barrels
+DEU,Germany,51,9,2010-06-30,2010Q2,1.0,Germany 1.0 Thousand Barrels
+DEU,Germany,51,9,2010-09-30,2010Q3,1.0,Germany 1.0 Thousand Barrels
+DEU,Germany,51,9,2010-12-31,2010Q4,2.0,Germany 2.0 Thousand Barrels
+DEU,Germany,51,9,2011-03-31,2011Q1,3.0,Germany 3.0 Thousand Barrels
+DEU,Germany,51,9,2011-06-30,2011Q2,1.0,Germany 1.0 Thousand Barrels
+DEU,Germany,51,9,2011-09-30,2011Q3,2.0,Germany 2.0 Thousand Barrels
+DEU,Germany,51,9,2011-12-31,2011Q4,2.0,Germany 2.0 Thousand Barrels
+DEU,Germany,51,9,2012-03-31,2012Q1,2.0,Germany 2.0 Thousand Barrels
+DEU,Germany,51,9,2012-06-30,2012Q2,3.0,Germany 3.0 Thousand Barrels
+DEU,Germany,51,9,2012-09-30,2012Q3,5.0,Germany 5.0 Thousand Barrels
+DEU,Germany,51,9,2012-12-31,2012Q4,2.0,Germany 2.0 Thousand Barrels
+DEU,Germany,51,9,2013-03-31,2013Q1,3.0,Germany 3.0 Thousand Barrels
+DEU,Germany,51,9,2013-06-30,2013Q2,2.0,Germany 2.0 Thousand Barrels
+DEU,Germany,51,9,2013-09-30,2013Q3,2.0,Germany 2.0 Thousand Barrels
+DEU,Germany,51,9,2013-12-31,2013Q4,4.0,Germany 4.0 Thousand Barrels
+DEU,Germany,51,9,2014-03-31,2014Q1,6.0,Germany 6.0 Thousand Barrels
+DEU,Germany,51,9,2014-06-30,2014Q2,3.0,Germany 3.0 Thousand Barrels
+DEU,Germany,51,9,2014-09-30,2014Q3,5.0,Germany 5.0 Thousand Barrels
+DEU,Germany,51,9,2014-12-31,2014Q4,3.0,Germany 3.0 Thousand Barrels
+DEU,Germany,51,9,2015-03-31,2015Q1,2.0,Germany 2.0 Thousand Barrels
+GHA,Ghana,8,-2,2012-03-31,2012Q1,26.0,Ghana 26.0 Thousand Barrels
+GRC,Greece,39,22,2017-03-31,2017Q1,1.0,Greece 1.0 Thousand Barrels
+GTM,Guatemala,15.5,-90.25,2010-06-30,2010Q2,18.0,Guatemala 18.0 Thousand Barrels
+HTI,Haiti,19,-72.4167,2010-09-30,2010Q3,1.0,Haiti 1.0 Thousand Barrels
+HTI,Haiti,19,-72.4167,2011-06-30,2011Q2,1.0,Haiti 1.0 Thousand Barrels
+HTI,Haiti,19,-72.4167,2011-09-30,2011Q3,2.0,Haiti 2.0 Thousand Barrels
+HTI,Haiti,19,-72.4167,2013-12-31,2013Q4,1.0,Haiti 1.0 Thousand Barrels
+HTI,Haiti,19,-72.4167,2016-09-30,2016Q3,1.0,Haiti 1.0 Thousand Barrels
+HTI,Haiti,19,-72.4167,2016-12-31,2016Q4,1.0,Haiti 1.0 Thousand Barrels
+HTI,Haiti,19,-72.4167,2017-09-30,2017Q3,1.0,Haiti 1.0 Thousand Barrels
+HTI,Haiti,19,-72.4167,2018-06-30,2018Q2,1.0,Haiti 1.0 Thousand Barrels
+HKG,Hong Kong,22.25,114.1667,2010-03-31,2010Q1,1.0,Hong Kong 1.0 Thousand Barrels
+HKG,Hong Kong,22.25,114.1667,2011-03-31,2011Q1,3.0,Hong Kong 3.0 Thousand Barrels
+HKG,Hong Kong,22.25,114.1667,2011-06-30,2011Q2,2.0,Hong Kong 2.0 Thousand Barrels
+HKG,Hong Kong,22.25,114.1667,2011-09-30,2011Q3,3.0,Hong Kong 3.0 Thousand Barrels
+HKG,Hong Kong,22.25,114.1667,2013-03-31,2013Q1,6.0,Hong Kong 6.0 Thousand Barrels
+HKG,Hong Kong,22.25,114.1667,2013-06-30,2013Q2,1.0,Hong Kong 1.0 Thousand Barrels
+IND,India,20,77,2010-03-31,2010Q1,179.0,India 179.0 Thousand Barrels
+IND,India,20,77,2010-06-30,2010Q2,141.0,India 141.0 Thousand Barrels
+IND,India,20,77,2010-09-30,2010Q3,128.0,India 128.0 Thousand Barrels
+IND,India,20,77,2010-12-31,2010Q4,239.0,India 239.0 Thousand Barrels
+IND,India,20,77,2011-03-31,2011Q1,2.0,India 2.0 Thousand Barrels
+IND,India,20,77,2011-12-31,2011Q4,239.0,India 239.0 Thousand Barrels
+IND,India,20,77,2012-03-31,2012Q1,1.0,India 1.0 Thousand Barrels
+IND,India,20,77,2012-06-30,2012Q2,2.0,India 2.0 Thousand Barrels
+IND,India,20,77,2012-09-30,2012Q3,1.0,India 1.0 Thousand Barrels
+IND,India,20,77,2012-12-31,2012Q4,1.0,India 1.0 Thousand Barrels
+IND,India,20,77,2013-03-31,2013Q1,1.0,India 1.0 Thousand Barrels
+IND,India,20,77,2013-06-30,2013Q2,2.0,India 2.0 Thousand Barrels
+IND,India,20,77,2013-09-30,2013Q3,1.0,India 1.0 Thousand Barrels
+IND,India,20,77,2013-12-31,2013Q4,503.0,India 503.0 Thousand Barrels
+IND,India,20,77,2014-03-31,2014Q1,224.0,India 224.0 Thousand Barrels
+IND,India,20,77,2014-09-30,2014Q3,70.0,India 70.0 Thousand Barrels
+IND,India,20,77,2014-12-31,2014Q4,662.0,India 662.0 Thousand Barrels
+IND,India,20,77,2015-03-31,2015Q1,170.0,India 170.0 Thousand Barrels
+IND,India,20,77,2015-06-30,2015Q2,170.0,India 170.0 Thousand Barrels
+IND,India,20,77,2015-09-30,2015Q3,543.0,India 543.0 Thousand Barrels
+IND,India,20,77,2015-12-31,2015Q4,3.0,India 3.0 Thousand Barrels
+IND,India,20,77,2016-03-31,2016Q1,338.0,India 338.0 Thousand Barrels
+IND,India,20,77,2016-06-30,2016Q2,474.0,India 474.0 Thousand Barrels
+IND,India,20,77,2016-09-30,2016Q3,646.0,India 646.0 Thousand Barrels
+IND,India,20,77,2016-12-31,2016Q4,717.0,India 717.0 Thousand Barrels
+IND,India,20,77,2017-03-31,2017Q1,1769.0,India 1769.0 Thousand Barrels
+IND,India,20,77,2017-06-30,2017Q2,297.0,India 297.0 Thousand Barrels
+IND,India,20,77,2017-09-30,2017Q3,959.0,India 959.0 Thousand Barrels
+IND,India,20,77,2017-12-31,2017Q4,1320.0,India 1320.0 Thousand Barrels
+IND,India,20,77,2018-03-31,2018Q1,614.0,India 614.0 Thousand Barrels
+IND,India,20,77,2018-06-30,2018Q2,1055.0,India 1055.0 Thousand Barrels
+IND,India,20,77,2018-09-30,2018Q3,475.0,India 475.0 Thousand Barrels
+IRQ,Iraq,33,44,2011-03-31,2011Q1,1.0,Iraq 1.0 Thousand Barrels
+IRQ,Iraq,33,44,2015-09-30,2015Q3,1.0,Iraq 1.0 Thousand Barrels
+IRL,Ireland,53,-8,2010-03-31,2010Q1,4.0,Ireland 4.0 Thousand Barrels
+IRL,Ireland,53,-8,2010-09-30,2010Q3,25.0,Ireland 25.0 Thousand Barrels
+IRL,Ireland,53,-8,2011-03-31,2011Q1,2.0,Ireland 2.0 Thousand Barrels
+IRL,Ireland,53,-8,2012-12-31,2012Q4,30.0,Ireland 30.0 Thousand Barrels
+IRL,Ireland,53,-8,2013-03-31,2013Q1,2.0,Ireland 2.0 Thousand Barrels
+IRL,Ireland,53,-8,2013-06-30,2013Q2,1.0,Ireland 1.0 Thousand Barrels
+IRL,Ireland,53,-8,2013-12-31,2013Q4,1.0,Ireland 1.0 Thousand Barrels
+IRL,Ireland,53,-8,2014-03-31,2014Q1,1.0,Ireland 1.0 Thousand Barrels
+IRL,Ireland,53,-8,2014-06-30,2014Q2,1.0,Ireland 1.0 Thousand Barrels
+IRL,Ireland,53,-8,2015-03-31,2015Q1,1.0,Ireland 1.0 Thousand Barrels
+IRL,Ireland,53,-8,2015-09-30,2015Q3,1.0,Ireland 1.0 Thousand Barrels
+IRL,Ireland,53,-8,2017-06-30,2017Q2,1.0,Ireland 1.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2010-09-30,2010Q3,4.0,Israel 4.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2011-03-31,2011Q1,8.0,Israel 8.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2011-06-30,2011Q2,7.0,Israel 7.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2011-09-30,2011Q3,13.0,Israel 13.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2011-12-31,2011Q4,3.0,Israel 3.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2012-03-31,2012Q1,10.0,Israel 10.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2012-06-30,2012Q2,1.0,Israel 1.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2012-09-30,2012Q3,2.0,Israel 2.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2012-12-31,2012Q4,6.0,Israel 6.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2013-03-31,2013Q1,3.0,Israel 3.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2013-12-31,2013Q4,1.0,Israel 1.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2014-03-31,2014Q1,2.0,Israel 2.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2014-06-30,2014Q2,6.0,Israel 6.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2014-09-30,2014Q3,1.0,Israel 1.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2017-06-30,2017Q2,1.0,Israel 1.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2017-12-31,2017Q4,2.0,Israel 2.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2018-03-31,2018Q1,4.0,Israel 4.0 Thousand Barrels
+ISR,Israel,31.5,34.75,2018-06-30,2018Q2,1.0,Israel 1.0 Thousand Barrels
+ITA,Italy,42.8333,12.8333,2010-06-30,2010Q2,1.0,Italy 1.0 Thousand Barrels
+ITA,Italy,42.8333,12.8333,2013-09-30,2013Q3,1.0,Italy 1.0 Thousand Barrels
+ITA,Italy,42.8333,12.8333,2013-12-31,2013Q4,2.0,Italy 2.0 Thousand Barrels
+ITA,Italy,42.8333,12.8333,2014-06-30,2014Q2,2.0,Italy 2.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2010-03-31,2010Q1,89.0,Jamaica 89.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2010-06-30,2010Q2,119.0,Jamaica 119.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2010-09-30,2010Q3,89.0,Jamaica 89.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2010-12-31,2010Q4,170.0,Jamaica 170.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2011-03-31,2011Q1,62.0,Jamaica 62.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2011-06-30,2011Q2,88.0,Jamaica 88.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2011-09-30,2011Q3,157.0,Jamaica 157.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2011-12-31,2011Q4,76.0,Jamaica 76.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2012-03-31,2012Q1,154.0,Jamaica 154.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2012-06-30,2012Q2,64.0,Jamaica 64.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2012-09-30,2012Q3,148.0,Jamaica 148.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2012-12-31,2012Q4,38.0,Jamaica 38.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2013-03-31,2013Q1,50.0,Jamaica 50.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2013-06-30,2013Q2,56.0,Jamaica 56.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2013-09-30,2013Q3,63.0,Jamaica 63.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2013-12-31,2013Q4,79.0,Jamaica 79.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2014-03-31,2014Q1,160.0,Jamaica 160.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2014-06-30,2014Q2,135.0,Jamaica 135.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2014-09-30,2014Q3,62.0,Jamaica 62.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2014-12-31,2014Q4,144.0,Jamaica 144.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2015-03-31,2015Q1,65.0,Jamaica 65.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2015-06-30,2015Q2,127.0,Jamaica 127.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2015-09-30,2015Q3,40.0,Jamaica 40.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2015-12-31,2015Q4,74.0,Jamaica 74.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2016-03-31,2016Q1,139.0,Jamaica 139.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2016-06-30,2016Q2,136.0,Jamaica 136.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2016-09-30,2016Q3,79.0,Jamaica 79.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2016-12-31,2016Q4,88.0,Jamaica 88.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2017-03-31,2017Q1,110.0,Jamaica 110.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2017-06-30,2017Q2,220.0,Jamaica 220.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2017-09-30,2017Q3,101.0,Jamaica 101.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2017-12-31,2017Q4,83.0,Jamaica 83.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2018-03-31,2018Q1,44.0,Jamaica 44.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2018-06-30,2018Q2,158.0,Jamaica 158.0 Thousand Barrels
+JAM,Jamaica,18.25,-77.5,2018-09-30,2018Q3,115.0,Jamaica 115.0 Thousand Barrels
+JPN,Japan,36,138,2011-06-30,2011Q2,22.0,Japan 22.0 Thousand Barrels
+JPN,Japan,36,138,2011-09-30,2011Q3,25.0,Japan 25.0 Thousand Barrels
+JPN,Japan,36,138,2011-12-31,2011Q4,1.0,Japan 1.0 Thousand Barrels
+JPN,Japan,36,138,2012-03-31,2012Q1,1.0,Japan 1.0 Thousand Barrels
+JPN,Japan,36,138,2012-12-31,2012Q4,7.0,Japan 7.0 Thousand Barrels
+JPN,Japan,36,138,2014-03-31,2014Q1,1.0,Japan 1.0 Thousand Barrels
+JPN,Japan,36,138,2016-09-30,2016Q3,1.0,Japan 1.0 Thousand Barrels
+JPN,Japan,36,138,2016-12-31,2016Q4,1.0,Japan 1.0 Thousand Barrels
+JPN,Japan,36,138,2017-06-30,2017Q2,7.0,Japan 7.0 Thousand Barrels
+JPN,Japan,36,138,2017-12-31,2017Q4,1.0,Japan 1.0 Thousand Barrels
+JPN,Japan,36,138,2018-03-31,2018Q1,4.0,Japan 4.0 Thousand Barrels
+JPN,Japan,36,138,2018-06-30,2018Q2,16.0,Japan 16.0 Thousand Barrels
+JPN,Japan,36,138,2018-09-30,2018Q3,33.0,Japan 33.0 Thousand Barrels
+JOR,Jordan,31,36,2011-09-30,2011Q3,1.0,Jordan 1.0 Thousand Barrels
+KOR,"Korea, Republic of",37,127.5,2010-03-31,2010Q1,20.0,"Korea, Republic of 20.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2010-06-30,2010Q2,71.0,"Korea, Republic of 71.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2010-09-30,2010Q3,33.0,"Korea, Republic of 33.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2010-12-31,2010Q4,22.0,"Korea, Republic of 22.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2011-06-30,2011Q2,27.0,"Korea, Republic of 27.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2011-12-31,2011Q4,59.0,"Korea, Republic of 59.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2012-03-31,2012Q1,172.0,"Korea, Republic of 172.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2012-06-30,2012Q2,66.0,"Korea, Republic of 66.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2012-09-30,2012Q3,3.0,"Korea, Republic of 3.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2012-12-31,2012Q4,3.0,"Korea, Republic of 3.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2013-03-31,2013Q1,3.0,"Korea, Republic of 3.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2013-06-30,2013Q2,3.0,"Korea, Republic of 3.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2013-09-30,2013Q3,34.0,"Korea, Republic of 34.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2013-12-31,2013Q4,72.0,"Korea, Republic of 72.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2014-03-31,2014Q1,221.0,"Korea, Republic of 221.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2014-06-30,2014Q2,206.0,"Korea, Republic of 206.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2014-09-30,2014Q3,90.0,"Korea, Republic of 90.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2014-12-31,2014Q4,340.0,"Korea, Republic of 340.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2015-03-31,2015Q1,381.0,"Korea, Republic of 381.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2015-06-30,2015Q2,316.0,"Korea, Republic of 316.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2015-09-30,2015Q3,386.0,"Korea, Republic of 386.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2015-12-31,2015Q4,229.0,"Korea, Republic of 229.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2016-03-31,2016Q1,400.0,"Korea, Republic of 400.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2016-06-30,2016Q2,194.0,"Korea, Republic of 194.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2016-09-30,2016Q3,178.0,"Korea, Republic of 178.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2016-12-31,2016Q4,230.0,"Korea, Republic of 230.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2017-03-31,2017Q1,325.0,"Korea, Republic of 325.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2017-06-30,2017Q2,342.0,"Korea, Republic of 342.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2017-09-30,2017Q3,179.0,"Korea, Republic of 179.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2017-12-31,2017Q4,310.0,"Korea, Republic of 310.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2018-03-31,2018Q1,517.0,"Korea, Republic of 517.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2018-06-30,2018Q2,542.0,"Korea, Republic of 542.0 Thousand Barrels"
+KOR,"Korea, Republic of",37,127.5,2018-09-30,2018Q3,387.0,"Korea, Republic of 387.0 Thousand Barrels"
+KWT,Kuwait,29.3375,47.6581,2013-12-31,2013Q4,1.0,Kuwait 1.0 Thousand Barrels
+KWT,Kuwait,29.3375,47.6581,2014-06-30,2014Q2,1.0,Kuwait 1.0 Thousand Barrels
+KWT,Kuwait,29.3375,47.6581,2015-09-30,2015Q3,1.0,Kuwait 1.0 Thousand Barrels
+KWT,Kuwait,29.3375,47.6581,2016-12-31,2016Q4,1.0,Kuwait 1.0 Thousand Barrels
+KWT,Kuwait,29.3375,47.6581,2017-06-30,2017Q2,1.0,Kuwait 1.0 Thousand Barrels
+LBN,Lebanon,33.8333,35.8333,2012-09-30,2012Q3,1.0,Lebanon 1.0 Thousand Barrels
+LBN,Lebanon,33.8333,35.8333,2014-12-31,2014Q4,1.0,Lebanon 1.0 Thousand Barrels
+LBN,Lebanon,33.8333,35.8333,2015-06-30,2015Q2,1.0,Lebanon 1.0 Thousand Barrels
+LBY,Libyan Arab Jamahiriya,25,17,2013-06-30,2013Q2,1.0,Libyan Arab Jamahiriya 1.0 Thousand Barrels
+LTU,Lithuania,56,24,2015-03-31,2015Q1,1.0,Lithuania 1.0 Thousand Barrels
+MYS,Malaysia,2.5,112.5,2010-06-30,2010Q2,6.0,Malaysia 6.0 Thousand Barrels
+MYS,Malaysia,2.5,112.5,2018-06-30,2018Q2,102.0,Malaysia 102.0 Thousand Barrels
+MYS,Malaysia,2.5,112.5,2018-09-30,2018Q3,596.0,Malaysia 596.0 Thousand Barrels
+MLT,Malta,35.8333,14.5833,2017-12-31,2017Q4,1.0,Malta 1.0 Thousand Barrels
+MLT,Malta,35.8333,14.5833,2018-09-30,2018Q3,127.0,Malta 127.0 Thousand Barrels
+MEX,Mexico,23,-102,2010-03-31,2010Q1,16.0,Mexico 16.0 Thousand Barrels
+MEX,Mexico,23,-102,2010-06-30,2010Q2,80.0,Mexico 80.0 Thousand Barrels
+MEX,Mexico,23,-102,2010-09-30,2010Q3,197.0,Mexico 197.0 Thousand Barrels
+MEX,Mexico,23,-102,2010-12-31,2010Q4,170.0,Mexico 170.0 Thousand Barrels
+MEX,Mexico,23,-102,2011-03-31,2011Q1,163.0,Mexico 163.0 Thousand Barrels
+MEX,Mexico,23,-102,2011-06-30,2011Q2,90.0,Mexico 90.0 Thousand Barrels
+MEX,Mexico,23,-102,2011-09-30,2011Q3,267.0,Mexico 267.0 Thousand Barrels
+MEX,Mexico,23,-102,2011-12-31,2011Q4,163.0,Mexico 163.0 Thousand Barrels
+MEX,Mexico,23,-102,2012-03-31,2012Q1,220.0,Mexico 220.0 Thousand Barrels
+MEX,Mexico,23,-102,2012-06-30,2012Q2,226.0,Mexico 226.0 Thousand Barrels
+MEX,Mexico,23,-102,2012-09-30,2012Q3,238.0,Mexico 238.0 Thousand Barrels
+MEX,Mexico,23,-102,2012-12-31,2012Q4,164.0,Mexico 164.0 Thousand Barrels
+MEX,Mexico,23,-102,2013-03-31,2013Q1,285.0,Mexico 285.0 Thousand Barrels
+MEX,Mexico,23,-102,2013-06-30,2013Q2,120.0,Mexico 120.0 Thousand Barrels
+MEX,Mexico,23,-102,2013-09-30,2013Q3,142.0,Mexico 142.0 Thousand Barrels
+MEX,Mexico,23,-102,2013-12-31,2013Q4,155.0,Mexico 155.0 Thousand Barrels
+MEX,Mexico,23,-102,2014-03-31,2014Q1,181.0,Mexico 181.0 Thousand Barrels
+MEX,Mexico,23,-102,2014-06-30,2014Q2,150.0,Mexico 150.0 Thousand Barrels
+MEX,Mexico,23,-102,2014-09-30,2014Q3,177.0,Mexico 177.0 Thousand Barrels
+MEX,Mexico,23,-102,2014-12-31,2014Q4,179.0,Mexico 179.0 Thousand Barrels
+MEX,Mexico,23,-102,2015-03-31,2015Q1,171.0,Mexico 171.0 Thousand Barrels
+MEX,Mexico,23,-102,2015-06-30,2015Q2,238.0,Mexico 238.0 Thousand Barrels
+MEX,Mexico,23,-102,2015-09-30,2015Q3,226.0,Mexico 226.0 Thousand Barrels
+MEX,Mexico,23,-102,2015-12-31,2015Q4,169.0,Mexico 169.0 Thousand Barrels
+MEX,Mexico,23,-102,2016-03-31,2016Q1,180.0,Mexico 180.0 Thousand Barrels
+MEX,Mexico,23,-102,2016-06-30,2016Q2,177.0,Mexico 177.0 Thousand Barrels
+MEX,Mexico,23,-102,2016-09-30,2016Q3,157.0,Mexico 157.0 Thousand Barrels
+MEX,Mexico,23,-102,2016-12-31,2016Q4,194.0,Mexico 194.0 Thousand Barrels
+MEX,Mexico,23,-102,2017-03-31,2017Q1,170.0,Mexico 170.0 Thousand Barrels
+MEX,Mexico,23,-102,2017-06-30,2017Q2,127.0,Mexico 127.0 Thousand Barrels
+MEX,Mexico,23,-102,2017-09-30,2017Q3,188.0,Mexico 188.0 Thousand Barrels
+MEX,Mexico,23,-102,2017-12-31,2017Q4,218.0,Mexico 218.0 Thousand Barrels
+MEX,Mexico,23,-102,2018-03-31,2018Q1,169.0,Mexico 169.0 Thousand Barrels
+MEX,Mexico,23,-102,2018-06-30,2018Q2,164.0,Mexico 164.0 Thousand Barrels
+MEX,Mexico,23,-102,2018-09-30,2018Q3,163.0,Mexico 163.0 Thousand Barrels
+FSM,"Micronesia, Federated States of",6.9167,158.25,2012-09-30,2012Q3,1.0,"Micronesia, Federated States of 1.0 Thousand Barrels"
+NLD,Netherlands,52.5,5.75,2010-03-31,2010Q1,594.0,Netherlands 594.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2010-06-30,2010Q2,436.0,Netherlands 436.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2010-09-30,2010Q3,359.0,Netherlands 359.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2010-12-31,2010Q4,346.0,Netherlands 346.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2011-03-31,2011Q1,729.0,Netherlands 729.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2011-06-30,2011Q2,695.0,Netherlands 695.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2011-09-30,2011Q3,708.0,Netherlands 708.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2011-12-31,2011Q4,822.0,Netherlands 822.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2012-03-31,2012Q1,370.0,Netherlands 370.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2012-06-30,2012Q2,128.0,Netherlands 128.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2012-09-30,2012Q3,594.0,Netherlands 594.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2012-12-31,2012Q4,373.0,Netherlands 373.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2013-03-31,2013Q1,121.0,Netherlands 121.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2013-06-30,2013Q2,62.0,Netherlands 62.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2013-09-30,2013Q3,11.0,Netherlands 11.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2013-12-31,2013Q4,83.0,Netherlands 83.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2014-03-31,2014Q1,157.0,Netherlands 157.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2014-06-30,2014Q2,36.0,Netherlands 36.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2014-09-30,2014Q3,167.0,Netherlands 167.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2014-12-31,2014Q4,210.0,Netherlands 210.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2015-03-31,2015Q1,349.0,Netherlands 349.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2015-06-30,2015Q2,223.0,Netherlands 223.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2015-09-30,2015Q3,23.0,Netherlands 23.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2015-12-31,2015Q4,209.0,Netherlands 209.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2016-03-31,2016Q1,112.0,Netherlands 112.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2016-06-30,2016Q2,31.0,Netherlands 31.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2016-09-30,2016Q3,79.0,Netherlands 79.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2017-03-31,2017Q1,82.0,Netherlands 82.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2017-06-30,2017Q2,121.0,Netherlands 121.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2017-09-30,2017Q3,214.0,Netherlands 214.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2017-12-31,2017Q4,412.0,Netherlands 412.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2018-03-31,2018Q1,94.0,Netherlands 94.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2018-06-30,2018Q2,580.0,Netherlands 580.0 Thousand Barrels
+NLD,Netherlands,52.5,5.75,2018-09-30,2018Q3,692.0,Netherlands 692.0 Thousand Barrels
+ANT,Netherlands Antilles,12.25,-68.75,2011-03-31,2011Q1,1.0,Netherlands Antilles 1.0 Thousand Barrels
+NZL,New Zealand,-41,174,2012-12-31,2012Q4,1.0,New Zealand 1.0 Thousand Barrels
+NGA,Nigeria,10,8,2010-03-31,2010Q1,75.0,Nigeria 75.0 Thousand Barrels
+NGA,Nigeria,10,8,2010-12-31,2010Q4,126.0,Nigeria 126.0 Thousand Barrels
+NGA,Nigeria,10,8,2011-03-31,2011Q1,294.0,Nigeria 294.0 Thousand Barrels
+NGA,Nigeria,10,8,2011-09-30,2011Q3,72.0,Nigeria 72.0 Thousand Barrels
+NGA,Nigeria,10,8,2011-12-31,2011Q4,130.0,Nigeria 130.0 Thousand Barrels
+NGA,Nigeria,10,8,2012-03-31,2012Q1,136.0,Nigeria 136.0 Thousand Barrels
+NGA,Nigeria,10,8,2012-06-30,2012Q2,222.0,Nigeria 222.0 Thousand Barrels
+NGA,Nigeria,10,8,2013-12-31,2013Q4,82.0,Nigeria 82.0 Thousand Barrels
+NGA,Nigeria,10,8,2014-03-31,2014Q1,157.0,Nigeria 157.0 Thousand Barrels
+NGA,Nigeria,10,8,2014-09-30,2014Q3,86.0,Nigeria 86.0 Thousand Barrels
+NGA,Nigeria,10,8,2014-12-31,2014Q4,159.0,Nigeria 159.0 Thousand Barrels
+NGA,Nigeria,10,8,2015-03-31,2015Q1,79.0,Nigeria 79.0 Thousand Barrels
+NGA,Nigeria,10,8,2015-06-30,2015Q2,82.0,Nigeria 82.0 Thousand Barrels
+NGA,Nigeria,10,8,2016-03-31,2016Q1,85.0,Nigeria 85.0 Thousand Barrels
+NGA,Nigeria,10,8,2016-06-30,2016Q2,83.0,Nigeria 83.0 Thousand Barrels
+NGA,Nigeria,10,8,2016-09-30,2016Q3,80.0,Nigeria 80.0 Thousand Barrels
+NGA,Nigeria,10,8,2016-12-31,2016Q4,279.0,Nigeria 279.0 Thousand Barrels
+NGA,Nigeria,10,8,2017-03-31,2017Q1,85.0,Nigeria 85.0 Thousand Barrels
+NGA,Nigeria,10,8,2017-06-30,2017Q2,244.0,Nigeria 244.0 Thousand Barrels
+NGA,Nigeria,10,8,2017-09-30,2017Q3,80.0,Nigeria 80.0 Thousand Barrels
+NGA,Nigeria,10,8,2017-12-31,2017Q4,108.0,Nigeria 108.0 Thousand Barrels
+NGA,Nigeria,10,8,2018-03-31,2018Q1,283.0,Nigeria 283.0 Thousand Barrels
+NGA,Nigeria,10,8,2018-06-30,2018Q2,65.0,Nigeria 65.0 Thousand Barrels
+NGA,Nigeria,10,8,2018-09-30,2018Q3,80.0,Nigeria 80.0 Thousand Barrels
+NOR,Norway,62,10,2012-06-30,2012Q2,19.0,Norway 19.0 Thousand Barrels
+NOR,Norway,62,10,2013-09-30,2013Q3,150.0,Norway 150.0 Thousand Barrels
+NOR,Norway,62,10,2013-12-31,2013Q4,179.0,Norway 179.0 Thousand Barrels
+NOR,Norway,62,10,2015-12-31,2015Q4,27.0,Norway 27.0 Thousand Barrels
+NOR,Norway,62,10,2016-03-31,2016Q1,53.0,Norway 53.0 Thousand Barrels
+NOR,Norway,62,10,2016-12-31,2016Q4,52.0,Norway 52.0 Thousand Barrels
+NOR,Norway,62,10,2018-03-31,2018Q1,44.0,Norway 44.0 Thousand Barrels
+NOR,Norway,62,10,2018-09-30,2018Q3,52.0,Norway 52.0 Thousand Barrels
+OMN,Oman,21,57,2011-09-30,2011Q3,88.0,Oman 88.0 Thousand Barrels
+OMN,Oman,21,57,2011-12-31,2011Q4,158.0,Oman 158.0 Thousand Barrels
+OMN,Oman,21,57,2012-03-31,2012Q1,223.0,Oman 223.0 Thousand Barrels
+OMN,Oman,21,57,2012-06-30,2012Q2,359.0,Oman 359.0 Thousand Barrels
+OMN,Oman,21,57,2015-03-31,2015Q1,162.0,Oman 162.0 Thousand Barrels
+OMN,Oman,21,57,2015-06-30,2015Q2,300.0,Oman 300.0 Thousand Barrels
+OMN,Oman,21,57,2015-12-31,2015Q4,319.0,Oman 319.0 Thousand Barrels
+OMN,Oman,21,57,2016-03-31,2016Q1,316.0,Oman 316.0 Thousand Barrels
+OMN,Oman,21,57,2017-09-30,2017Q3,277.0,Oman 277.0 Thousand Barrels
+OMN,Oman,21,57,2017-12-31,2017Q4,236.0,Oman 236.0 Thousand Barrels
+OMN,Oman,21,57,2018-03-31,2018Q1,133.0,Oman 133.0 Thousand Barrels
+OMN,Oman,21,57,2018-06-30,2018Q2,301.0,Oman 301.0 Thousand Barrels
+OMN,Oman,21,57,2018-09-30,2018Q3,136.0,Oman 136.0 Thousand Barrels
+PAK,Pakistan,30,70,2010-09-30,2010Q3,1.0,Pakistan 1.0 Thousand Barrels
+PAN,Panama,9,-80,2013-12-31,2013Q4,48.0,Panama 48.0 Thousand Barrels
+PAN,Panama,9,-80,2014-03-31,2014Q1,50.0,Panama 50.0 Thousand Barrels
+PAN,Panama,9,-80,2015-06-30,2015Q2,2.0,Panama 2.0 Thousand Barrels
+PRY,Paraguay,-23,-58,2011-09-30,2011Q3,1.0,Paraguay 1.0 Thousand Barrels
+PER,Peru,-10,-76,2011-06-30,2011Q2,76.0,Peru 76.0 Thousand Barrels
+PER,Peru,-10,-76,2011-09-30,2011Q3,26.0,Peru 26.0 Thousand Barrels
+PER,Peru,-10,-76,2011-12-31,2011Q4,171.0,Peru 171.0 Thousand Barrels
+PER,Peru,-10,-76,2012-03-31,2012Q1,276.0,Peru 276.0 Thousand Barrels
+PER,Peru,-10,-76,2012-06-30,2012Q2,157.0,Peru 157.0 Thousand Barrels
+PER,Peru,-10,-76,2012-09-30,2012Q3,161.0,Peru 161.0 Thousand Barrels
+PER,Peru,-10,-76,2012-12-31,2012Q4,128.0,Peru 128.0 Thousand Barrels
+PER,Peru,-10,-76,2013-03-31,2013Q1,228.0,Peru 228.0 Thousand Barrels
+PER,Peru,-10,-76,2013-06-30,2013Q2,151.0,Peru 151.0 Thousand Barrels
+PER,Peru,-10,-76,2013-09-30,2013Q3,151.0,Peru 151.0 Thousand Barrels
+PER,Peru,-10,-76,2013-12-31,2013Q4,181.0,Peru 181.0 Thousand Barrels
+PER,Peru,-10,-76,2014-03-31,2014Q1,128.0,Peru 128.0 Thousand Barrels
+PER,Peru,-10,-76,2014-06-30,2014Q2,176.0,Peru 176.0 Thousand Barrels
+PER,Peru,-10,-76,2014-12-31,2014Q4,55.0,Peru 55.0 Thousand Barrels
+PER,Peru,-10,-76,2015-03-31,2015Q1,101.0,Peru 101.0 Thousand Barrels
+PER,Peru,-10,-76,2015-06-30,2015Q2,101.0,Peru 101.0 Thousand Barrels
+PER,Peru,-10,-76,2015-09-30,2015Q3,279.0,Peru 279.0 Thousand Barrels
+PER,Peru,-10,-76,2015-12-31,2015Q4,174.0,Peru 174.0 Thousand Barrels
+PER,Peru,-10,-76,2016-03-31,2016Q1,178.0,Peru 178.0 Thousand Barrels
+PER,Peru,-10,-76,2016-06-30,2016Q2,311.0,Peru 311.0 Thousand Barrels
+PER,Peru,-10,-76,2016-09-30,2016Q3,199.0,Peru 199.0 Thousand Barrels
+PER,Peru,-10,-76,2016-12-31,2016Q4,346.0,Peru 346.0 Thousand Barrels
+PER,Peru,-10,-76,2017-03-31,2017Q1,340.0,Peru 340.0 Thousand Barrels
+PER,Peru,-10,-76,2017-06-30,2017Q2,259.0,Peru 259.0 Thousand Barrels
+PER,Peru,-10,-76,2017-09-30,2017Q3,214.0,Peru 214.0 Thousand Barrels
+PER,Peru,-10,-76,2017-12-31,2017Q4,199.0,Peru 199.0 Thousand Barrels
+PER,Peru,-10,-76,2018-03-31,2018Q1,228.0,Peru 228.0 Thousand Barrels
+PER,Peru,-10,-76,2018-06-30,2018Q2,427.0,Peru 427.0 Thousand Barrels
+PER,Peru,-10,-76,2018-09-30,2018Q3,315.0,Peru 315.0 Thousand Barrels
+PHL,Philippines,13,122,2010-03-31,2010Q1,1.0,Philippines 1.0 Thousand Barrels
+PHL,Philippines,13,122,2010-06-30,2010Q2,2.0,Philippines 2.0 Thousand Barrels
+PHL,Philippines,13,122,2010-09-30,2010Q3,69.0,Philippines 69.0 Thousand Barrels
+PHL,Philippines,13,122,2010-12-31,2010Q4,86.0,Philippines 86.0 Thousand Barrels
+PHL,Philippines,13,122,2011-03-31,2011Q1,1.0,Philippines 1.0 Thousand Barrels
+PHL,Philippines,13,122,2011-06-30,2011Q2,74.0,Philippines 74.0 Thousand Barrels
+PHL,Philippines,13,122,2011-09-30,2011Q3,105.0,Philippines 105.0 Thousand Barrels
+PHL,Philippines,13,122,2011-12-31,2011Q4,104.0,Philippines 104.0 Thousand Barrels
+PHL,Philippines,13,122,2012-03-31,2012Q1,65.0,Philippines 65.0 Thousand Barrels
+PHL,Philippines,13,122,2012-06-30,2012Q2,34.0,Philippines 34.0 Thousand Barrels
+PHL,Philippines,13,122,2012-09-30,2012Q3,1.0,Philippines 1.0 Thousand Barrels
+PHL,Philippines,13,122,2012-12-31,2012Q4,2.0,Philippines 2.0 Thousand Barrels
+PHL,Philippines,13,122,2013-03-31,2013Q1,272.0,Philippines 272.0 Thousand Barrels
+PHL,Philippines,13,122,2013-06-30,2013Q2,148.0,Philippines 148.0 Thousand Barrels
+PHL,Philippines,13,122,2013-09-30,2013Q3,283.0,Philippines 283.0 Thousand Barrels
+PHL,Philippines,13,122,2013-12-31,2013Q4,539.0,Philippines 539.0 Thousand Barrels
+PHL,Philippines,13,122,2014-03-31,2014Q1,337.0,Philippines 337.0 Thousand Barrels
+PHL,Philippines,13,122,2014-06-30,2014Q2,193.0,Philippines 193.0 Thousand Barrels
+PHL,Philippines,13,122,2014-09-30,2014Q3,313.0,Philippines 313.0 Thousand Barrels
+PHL,Philippines,13,122,2014-12-31,2014Q4,768.0,Philippines 768.0 Thousand Barrels
+PHL,Philippines,13,122,2015-03-31,2015Q1,374.0,Philippines 374.0 Thousand Barrels
+PHL,Philippines,13,122,2015-06-30,2015Q2,391.0,Philippines 391.0 Thousand Barrels
+PHL,Philippines,13,122,2015-09-30,2015Q3,396.0,Philippines 396.0 Thousand Barrels
+PHL,Philippines,13,122,2015-12-31,2015Q4,578.0,Philippines 578.0 Thousand Barrels
+PHL,Philippines,13,122,2016-03-31,2016Q1,291.0,Philippines 291.0 Thousand Barrels
+PHL,Philippines,13,122,2016-06-30,2016Q2,315.0,Philippines 315.0 Thousand Barrels
+PHL,Philippines,13,122,2016-09-30,2016Q3,527.0,Philippines 527.0 Thousand Barrels
+PHL,Philippines,13,122,2016-12-31,2016Q4,240.0,Philippines 240.0 Thousand Barrels
+PHL,Philippines,13,122,2017-03-31,2017Q1,625.0,Philippines 625.0 Thousand Barrels
+PHL,Philippines,13,122,2017-06-30,2017Q2,203.0,Philippines 203.0 Thousand Barrels
+PHL,Philippines,13,122,2017-09-30,2017Q3,287.0,Philippines 287.0 Thousand Barrels
+PHL,Philippines,13,122,2017-12-31,2017Q4,345.0,Philippines 345.0 Thousand Barrels
+PHL,Philippines,13,122,2018-03-31,2018Q1,245.0,Philippines 245.0 Thousand Barrels
+PHL,Philippines,13,122,2018-06-30,2018Q2,797.0,Philippines 797.0 Thousand Barrels
+PHL,Philippines,13,122,2018-09-30,2018Q3,190.0,Philippines 190.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2010-03-31,2010Q1,7.0,Puerto Rico 7.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2010-06-30,2010Q2,13.0,Puerto Rico 13.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2010-09-30,2010Q3,11.0,Puerto Rico 11.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2010-12-31,2010Q4,10.0,Puerto Rico 10.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2011-03-31,2011Q1,10.0,Puerto Rico 10.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2011-06-30,2011Q2,14.0,Puerto Rico 14.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2011-09-30,2011Q3,13.0,Puerto Rico 13.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2011-12-31,2011Q4,13.0,Puerto Rico 13.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2012-03-31,2012Q1,12.0,Puerto Rico 12.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2012-06-30,2012Q2,11.0,Puerto Rico 11.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2012-09-30,2012Q3,14.0,Puerto Rico 14.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2012-12-31,2012Q4,9.0,Puerto Rico 9.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2013-03-31,2013Q1,15.0,Puerto Rico 15.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2013-06-30,2013Q2,11.0,Puerto Rico 11.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2013-09-30,2013Q3,8.0,Puerto Rico 8.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2013-12-31,2013Q4,5.0,Puerto Rico 5.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2014-03-31,2014Q1,144.0,Puerto Rico 144.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2014-06-30,2014Q2,11.0,Puerto Rico 11.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2014-09-30,2014Q3,111.0,Puerto Rico 111.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2014-12-31,2014Q4,5.0,Puerto Rico 5.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2015-03-31,2015Q1,14.0,Puerto Rico 14.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2015-06-30,2015Q2,5.0,Puerto Rico 5.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2015-09-30,2015Q3,7.0,Puerto Rico 7.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2015-12-31,2015Q4,173.0,Puerto Rico 173.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2016-03-31,2016Q1,5.0,Puerto Rico 5.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2016-06-30,2016Q2,4.0,Puerto Rico 4.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2016-09-30,2016Q3,3.0,Puerto Rico 3.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2016-12-31,2016Q4,3.0,Puerto Rico 3.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2017-03-31,2017Q1,65.0,Puerto Rico 65.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2017-06-30,2017Q2,103.0,Puerto Rico 103.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2017-09-30,2017Q3,3.0,Puerto Rico 3.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2017-12-31,2017Q4,97.0,Puerto Rico 97.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2018-03-31,2018Q1,92.0,Puerto Rico 92.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2018-06-30,2018Q2,92.0,Puerto Rico 92.0 Thousand Barrels
+PRI,Puerto Rico,18.25,-66.5,2018-09-30,2018Q3,96.0,Puerto Rico 96.0 Thousand Barrels
+RUS,Russian Federation,60,100,2013-12-31,2013Q4,1.0,Russian Federation 1.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2010-03-31,2010Q1,1.0,Saudi Arabia 1.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2010-06-30,2010Q2,2.0,Saudi Arabia 2.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2010-09-30,2010Q3,1.0,Saudi Arabia 1.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2011-06-30,2011Q2,1.0,Saudi Arabia 1.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2012-03-31,2012Q1,2.0,Saudi Arabia 2.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2013-03-31,2013Q1,1.0,Saudi Arabia 1.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2013-06-30,2013Q2,3.0,Saudi Arabia 3.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2014-03-31,2014Q1,2.0,Saudi Arabia 2.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2014-06-30,2014Q2,1.0,Saudi Arabia 1.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2014-09-30,2014Q3,2.0,Saudi Arabia 2.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2015-03-31,2015Q1,2.0,Saudi Arabia 2.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2015-06-30,2015Q2,1.0,Saudi Arabia 1.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2015-09-30,2015Q3,1.0,Saudi Arabia 1.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2016-06-30,2016Q2,2.0,Saudi Arabia 2.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2016-09-30,2016Q3,59.0,Saudi Arabia 59.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2016-12-31,2016Q4,59.0,Saudi Arabia 59.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2017-12-31,2017Q4,115.0,Saudi Arabia 115.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2018-03-31,2018Q1,113.0,Saudi Arabia 113.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2018-06-30,2018Q2,12.0,Saudi Arabia 12.0 Thousand Barrels
+SAU,Saudi Arabia,25,45,2018-09-30,2018Q3,186.0,Saudi Arabia 186.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2010-03-31,2010Q1,1.0,Singapore 1.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2010-06-30,2010Q2,96.0,Singapore 96.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2010-09-30,2010Q3,33.0,Singapore 33.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2010-12-31,2010Q4,3.0,Singapore 3.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2011-03-31,2011Q1,59.0,Singapore 59.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2011-06-30,2011Q2,83.0,Singapore 83.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2011-09-30,2011Q3,86.0,Singapore 86.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2012-03-31,2012Q1,17.0,Singapore 17.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2013-06-30,2013Q2,2.0,Singapore 2.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2013-09-30,2013Q3,1.0,Singapore 1.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2013-12-31,2013Q4,55.0,Singapore 55.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2014-03-31,2014Q1,119.0,Singapore 119.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2014-06-30,2014Q2,1.0,Singapore 1.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2014-09-30,2014Q3,33.0,Singapore 33.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2014-12-31,2014Q4,60.0,Singapore 60.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2015-03-31,2015Q1,92.0,Singapore 92.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2015-06-30,2015Q2,57.0,Singapore 57.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2015-09-30,2015Q3,36.0,Singapore 36.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2015-12-31,2015Q4,58.0,Singapore 58.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2016-03-31,2016Q1,3.0,Singapore 3.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2016-06-30,2016Q2,77.0,Singapore 77.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2016-09-30,2016Q3,117.0,Singapore 117.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2016-12-31,2016Q4,51.0,Singapore 51.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2017-03-31,2017Q1,113.0,Singapore 113.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2017-06-30,2017Q2,124.0,Singapore 124.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2017-09-30,2017Q3,34.0,Singapore 34.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2017-12-31,2017Q4,39.0,Singapore 39.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2018-03-31,2018Q1,416.0,Singapore 416.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2018-06-30,2018Q2,31.0,Singapore 31.0 Thousand Barrels
+SGP,Singapore,1.3667,103.8,2018-09-30,2018Q3,2.0,Singapore 2.0 Thousand Barrels
+ZAF,South Africa,-29,24,2010-03-31,2010Q1,3.0,South Africa 3.0 Thousand Barrels
+ZAF,South Africa,-29,24,2010-06-30,2010Q2,2.0,South Africa 2.0 Thousand Barrels
+ZAF,South Africa,-29,24,2010-09-30,2010Q3,3.0,South Africa 3.0 Thousand Barrels
+ZAF,South Africa,-29,24,2010-12-31,2010Q4,3.0,South Africa 3.0 Thousand Barrels
+ZAF,South Africa,-29,24,2011-03-31,2011Q1,2.0,South Africa 2.0 Thousand Barrels
+ZAF,South Africa,-29,24,2011-06-30,2011Q2,4.0,South Africa 4.0 Thousand Barrels
+ZAF,South Africa,-29,24,2011-09-30,2011Q3,3.0,South Africa 3.0 Thousand Barrels
+ZAF,South Africa,-29,24,2011-12-31,2011Q4,3.0,South Africa 3.0 Thousand Barrels
+ZAF,South Africa,-29,24,2012-03-31,2012Q1,1.0,South Africa 1.0 Thousand Barrels
+ESP,Spain,40,-4,2014-03-31,2014Q1,84.0,Spain 84.0 Thousand Barrels
+ESP,Spain,40,-4,2014-06-30,2014Q2,167.0,Spain 167.0 Thousand Barrels
+ESP,Spain,40,-4,2014-09-30,2014Q3,192.0,Spain 192.0 Thousand Barrels
+ESP,Spain,40,-4,2017-12-31,2017Q4,320.0,Spain 320.0 Thousand Barrels
+ESP,Spain,40,-4,2018-03-31,2018Q1,41.0,Spain 41.0 Thousand Barrels
+ESP,Spain,40,-4,2018-06-30,2018Q2,42.0,Spain 42.0 Thousand Barrels
+ESP,Spain,40,-4,2018-09-30,2018Q3,126.0,Spain 126.0 Thousand Barrels
+SWE,Sweden,62,15,2012-06-30,2012Q2,8.0,Sweden 8.0 Thousand Barrels
+SWE,Sweden,62,15,2012-12-31,2012Q4,97.0,Sweden 97.0 Thousand Barrels
+SWE,Sweden,62,15,2013-12-31,2013Q4,81.0,Sweden 81.0 Thousand Barrels
+SWE,Sweden,62,15,2016-03-31,2016Q1,38.0,Sweden 38.0 Thousand Barrels
+SWE,Sweden,62,15,2017-09-30,2017Q3,32.0,Sweden 32.0 Thousand Barrels
+SWE,Sweden,62,15,2018-03-31,2018Q1,8.0,Sweden 8.0 Thousand Barrels
+SWE,Sweden,62,15,2018-06-30,2018Q2,11.0,Sweden 11.0 Thousand Barrels
+SWE,Sweden,62,15,2018-09-30,2018Q3,15.0,Sweden 15.0 Thousand Barrels
+CHE,Switzerland,47,8,2015-03-31,2015Q1,51.0,Switzerland 51.0 Thousand Barrels
+CHE,Switzerland,47,8,2015-09-30,2015Q3,31.0,Switzerland 31.0 Thousand Barrels
+CHE,Switzerland,47,8,2017-03-31,2017Q1,32.0,Switzerland 32.0 Thousand Barrels
+CHE,Switzerland,47,8,2017-09-30,2017Q3,72.0,Switzerland 72.0 Thousand Barrels
+CHE,Switzerland,47,8,2017-12-31,2017Q4,75.0,Switzerland 75.0 Thousand Barrels
+CHE,Switzerland,47,8,2018-03-31,2018Q1,91.0,Switzerland 91.0 Thousand Barrels
+CHE,Switzerland,47,8,2018-06-30,2018Q2,24.0,Switzerland 24.0 Thousand Barrels
+TWN,"Taiwan, Province of China",23.5,121,2010-09-30,2010Q3,26.0,"Taiwan, Province of China 26.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2010-12-31,2010Q4,1.0,"Taiwan, Province of China 1.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2011-03-31,2011Q1,1.0,"Taiwan, Province of China 1.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2011-06-30,2011Q2,1.0,"Taiwan, Province of China 1.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2014-03-31,2014Q1,3.0,"Taiwan, Province of China 3.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2014-06-30,2014Q2,2.0,"Taiwan, Province of China 2.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2014-12-31,2014Q4,1.0,"Taiwan, Province of China 1.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2015-03-31,2015Q1,3.0,"Taiwan, Province of China 3.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2015-06-30,2015Q2,3.0,"Taiwan, Province of China 3.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2015-09-30,2015Q3,3.0,"Taiwan, Province of China 3.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2015-12-31,2015Q4,3.0,"Taiwan, Province of China 3.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2016-03-31,2016Q1,3.0,"Taiwan, Province of China 3.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2016-06-30,2016Q2,4.0,"Taiwan, Province of China 4.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2016-12-31,2016Q4,1.0,"Taiwan, Province of China 1.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2017-09-30,2017Q3,1.0,"Taiwan, Province of China 1.0 Thousand Barrels"
+TWN,"Taiwan, Province of China",23.5,121,2018-03-31,2018Q1,1.0,"Taiwan, Province of China 1.0 Thousand Barrels"
+TZA,"Tanzania, United Republic of",-6,35,2011-09-30,2011Q3,1.0,"Tanzania, United Republic of 1.0 Thousand Barrels"
+TTO,Trinidad and Tobago,11,-61,2011-12-31,2011Q4,1.0,Trinidad and Tobago 1.0 Thousand Barrels
+TUN,Tunisia,34,9,2013-12-31,2013Q4,149.0,Tunisia 149.0 Thousand Barrels
+TUN,Tunisia,34,9,2014-03-31,2014Q1,138.0,Tunisia 138.0 Thousand Barrels
+TUN,Tunisia,34,9,2014-12-31,2014Q4,433.0,Tunisia 433.0 Thousand Barrels
+TUN,Tunisia,34,9,2015-03-31,2015Q1,64.0,Tunisia 64.0 Thousand Barrels
+TUN,Tunisia,34,9,2015-06-30,2015Q2,189.0,Tunisia 189.0 Thousand Barrels
+TUN,Tunisia,34,9,2015-09-30,2015Q3,300.0,Tunisia 300.0 Thousand Barrels
+TUR,Turkey,39,35,2011-12-31,2011Q4,116.0,Turkey 116.0 Thousand Barrels
+TUR,Turkey,39,35,2012-12-31,2012Q4,2.0,Turkey 2.0 Thousand Barrels
+TUR,Turkey,39,35,2013-03-31,2013Q1,1.0,Turkey 1.0 Thousand Barrels
+TUR,Turkey,39,35,2013-12-31,2013Q4,1.0,Turkey 1.0 Thousand Barrels
+TUR,Turkey,39,35,2014-03-31,2014Q1,1.0,Turkey 1.0 Thousand Barrels
+TUR,Turkey,39,35,2016-12-31,2016Q4,35.0,Turkey 35.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2010-03-31,2010Q1,189.0,United Arab Emirates 189.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2010-06-30,2010Q2,123.0,United Arab Emirates 123.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2010-09-30,2010Q3,33.0,United Arab Emirates 33.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2010-12-31,2010Q4,333.0,United Arab Emirates 333.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2011-03-31,2011Q1,818.0,United Arab Emirates 818.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2011-06-30,2011Q2,122.0,United Arab Emirates 122.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2011-09-30,2011Q3,323.0,United Arab Emirates 323.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2011-12-31,2011Q4,280.0,United Arab Emirates 280.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2012-03-31,2012Q1,343.0,United Arab Emirates 343.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2012-06-30,2012Q2,405.0,United Arab Emirates 405.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2012-09-30,2012Q3,1.0,United Arab Emirates 1.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2013-03-31,2013Q1,594.0,United Arab Emirates 594.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2013-09-30,2013Q3,135.0,United Arab Emirates 135.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2013-12-31,2013Q4,168.0,United Arab Emirates 168.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2014-03-31,2014Q1,648.0,United Arab Emirates 648.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2014-06-30,2014Q2,212.0,United Arab Emirates 212.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2014-09-30,2014Q3,377.0,United Arab Emirates 377.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2014-12-31,2014Q4,389.0,United Arab Emirates 389.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2015-03-31,2015Q1,378.0,United Arab Emirates 378.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2015-06-30,2015Q2,301.0,United Arab Emirates 301.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2015-09-30,2015Q3,1.0,United Arab Emirates 1.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2016-03-31,2016Q1,312.0,United Arab Emirates 312.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2016-09-30,2016Q3,218.0,United Arab Emirates 218.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2016-12-31,2016Q4,1.0,United Arab Emirates 1.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2017-03-31,2017Q1,498.0,United Arab Emirates 498.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2017-06-30,2017Q2,79.0,United Arab Emirates 79.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2017-09-30,2017Q3,287.0,United Arab Emirates 287.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2017-12-31,2017Q4,77.0,United Arab Emirates 77.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2018-03-31,2018Q1,493.0,United Arab Emirates 493.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2018-06-30,2018Q2,201.0,United Arab Emirates 201.0 Thousand Barrels
+ARE,United Arab Emirates,24,54,2018-09-30,2018Q3,358.0,United Arab Emirates 358.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2010-03-31,2010Q1,67.0,United Kingdom 67.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2010-06-30,2010Q2,70.0,United Kingdom 70.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2010-09-30,2010Q3,96.0,United Kingdom 96.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2010-12-31,2010Q4,481.0,United Kingdom 481.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2011-03-31,2011Q1,402.0,United Kingdom 402.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2011-06-30,2011Q2,460.0,United Kingdom 460.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2011-09-30,2011Q3,708.0,United Kingdom 708.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2011-12-31,2011Q4,1274.0,United Kingdom 1274.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2012-03-31,2012Q1,613.0,United Kingdom 613.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2012-06-30,2012Q2,678.0,United Kingdom 678.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2012-09-30,2012Q3,74.0,United Kingdom 74.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2012-12-31,2012Q4,237.0,United Kingdom 237.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2013-03-31,2013Q1,47.0,United Kingdom 47.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2013-06-30,2013Q2,3.0,United Kingdom 3.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2013-09-30,2013Q3,88.0,United Kingdom 88.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2013-12-31,2013Q4,5.0,United Kingdom 5.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2014-03-31,2014Q1,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2014-06-30,2014Q2,2.0,United Kingdom 2.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2014-09-30,2014Q3,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2014-12-31,2014Q4,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2015-06-30,2015Q2,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2015-09-30,2015Q3,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2015-12-31,2015Q4,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2016-03-31,2016Q1,13.0,United Kingdom 13.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2016-06-30,2016Q2,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2016-09-30,2016Q3,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2017-06-30,2017Q2,255.0,United Kingdom 255.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2017-09-30,2017Q3,1.0,United Kingdom 1.0 Thousand Barrels
+GBR,United Kingdom,54,-2,2018-06-30,2018Q2,24.0,United Kingdom 24.0 Thousand Barrels
+VEN,"Venezuela, Bolivarian Republic of",8,-66,2012-03-31,2012Q1,3.0,"Venezuela, Bolivarian Republic of 3.0 Thousand Barrels"
+VNM,Viet Nam,16,106,2018-06-30,2018Q2,25.0,Viet Nam 25.0 Thousand Barrels
+VIR,"Virgin Islands, U.S.",18.3333,-64.8333,2014-09-30,2014Q3,2.0,"Virgin Islands, U.S. 2.0 Thousand Barrels"
+VIR,"Virgin Islands, U.S.",18.3333,-64.8333,2015-06-30,2015Q2,3.0,"Virgin Islands, U.S. 3.0 Thousand Barrels"
+VIR,"Virgin Islands, U.S.",18.3333,-64.8333,2015-09-30,2015Q3,5.0,"Virgin Islands, U.S. 5.0 Thousand Barrels"
+VIR,"Virgin Islands, U.S.",18.3333,-64.8333,2015-12-31,2015Q4,4.0,"Virgin Islands, U.S. 4.0 Thousand Barrels"
+VIR,"Virgin Islands, U.S.",18.3333,-64.8333,2016-03-31,2016Q1,1.0,"Virgin Islands, U.S. 1.0 Thousand Barrels"
+VIR,"Virgin Islands, U.S.",18.3333,-64.8333,2016-06-30,2016Q2,1.0,"Virgin Islands, U.S. 1.0 Thousand Barrels"
+VIR,"Virgin Islands, U.S.",18.3333,-64.8333,2017-09-30,2017Q3,4.0,"Virgin Islands, U.S. 4.0 Thousand Barrels"
+YEM,Yemen,15,48,2011-09-30,2011Q3,1.0,Yemen 1.0 Thousand Barrels
+YEM,Yemen,15,48,2013-06-30,2013Q2,1.0,Yemen 1.0 Thousand Barrels
+YEM,Yemen,15,48,2014-06-30,2014Q2,1.0,Yemen 1.0 Thousand Barrels
+YEM,Yemen,15,48,2015-03-31,2015Q1,1.0,Yemen 1.0 Thousand Barrels
+YEM,Yemen,15,48,2016-06-30,2016Q2,1.0,Yemen 1.0 Thousand Barrels
