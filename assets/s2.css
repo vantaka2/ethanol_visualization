@@ -1,0 +1,31 @@
+.header{
+    margin:0px;
+    
+    height:70px;
+    color:rgb(0, 0, 0);
+
+}
+
+.title_small{
+    font-family: Dosis;
+    font-size: 2em;
+    text-align: center;
+
+}
+.ad{
+    font-family: Dosis;
+
+    background-color: white;
+}
+body{
+    background-color: #F4F4F8
+}
+
+.button_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background-color: white;
+}
