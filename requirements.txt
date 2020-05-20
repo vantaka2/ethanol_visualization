@@ -16,7 +16,7 @@ entrypoints==0.2.3
 Flask==1.0.2
 Flask-Compress==1.4.0
 gspread==3.0.1
-httplib2==0.11.3
+httplib2==0.18.0
 idna==2.7
 ipykernel==5.0.0
 ipython==7.0.1
